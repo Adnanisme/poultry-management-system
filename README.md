@@ -35,11 +35,8 @@ It was designed with a clear division of roles, easy daily data entry, and autom
 
 ## 📊 Visual Preview
 
-![Dashboard](https://github.com/user-attachments/assets/f71518cd-71b0-416e-aa82-7f3ebbb0b455")
-*Admin dashboard with live chart updates and KPIs*
-
-![Daily Entry](https://github.com/user-attachments/assets/de52f56e-e6ad-4801-8982-8e82f44015fa")
-*Daily entry interface for feed, mortality, and egg production*
+![Dashboard](https://github.com/user-attachments/assets/f71518cd-71b0-416e-aa82-7f3ebbb0b455)
+![Daily Entry](https://github.com/user-attachments/assets/de52f56e-e6ad-4801-8982-8e82f44015fa)
 
 ---
 
@@ -48,5 +45,6 @@ It was designed with a clear division of roles, easy daily data entry, and autom
 The system has significantly reduced record-keeping errors and streamlined reporting for Shamzak Poultry Farm. With offline portability, automatic backups, and a minimal learning curve, the tool empowers staff and management with better visibility into operational health — without requiring internet or external support.
 
 ---
+
 
 
